@@ -8,7 +8,8 @@ A simple login system built using C++ that allows users to register and login. D
 * Login Authentication
 * Password Verification
 * File-based data storage
-##Tech Used
+  
+   Tech Used
 * C++ (OOP)
 * File Handling
 * STL (vector)
